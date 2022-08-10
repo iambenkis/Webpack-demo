@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
     - ```npm run start``` with local server
 
 ### Install
-    I- Node js
+    - Node js
     - Npm
 
 ## Authors
